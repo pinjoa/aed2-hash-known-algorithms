@@ -44,5 +44,5 @@ a Makefile has been created (the initial test was done on Windows environment an
  
 Copyright (c) 2021, João Carlos Pinto 
   
-[BSD-3-Clause License](../../LICENSE) 
+[BSD-3-Clause License](LICENSE.md) 
  
